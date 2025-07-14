@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "782971507537",
+    "project_id": "recipe-share-app-fcf53",
+    "storage_bucket": "recipe-share-app-fcf53.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782971507537:android:9ce3ff52c175387cca3970",
+        "android_client_info": {
+          "package_name": "com.example.assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7aY7RwV3bopkZQiNAZbvrOYVKuAG_rLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
